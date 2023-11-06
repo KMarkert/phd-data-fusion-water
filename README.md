@@ -9,7 +9,7 @@ sensor fusion and gap-filling"
 If you use the code or methods in this repository please cite the following publication:
 
 ```
-@article{Gaboardi2021,
+@article{Markert2023,
     doi       = {},
     url       = {},
     year      = {2023},
